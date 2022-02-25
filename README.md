@@ -1,6 +1,7 @@
 # Can we predict Heart Failure?
 This project is the result of the course Statistical Learning in which I have analyzed a [dataset](https://www.kaggle.com/andrewmvd/heart-failure-clinical-data) composed by medical records of 299 heart failure patients. In this work I used R as programming language.
-This repositories contains different files. First of all Data folder contains 2 files:
+
+This repositories contains different files:
 - dati_modello_progetto.xlsx: this file is a summary of the results
 - heart_failure_clinical_records_dataset.csv: the dataset used
 Then the other files are the source code of the project:
