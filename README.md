@@ -11,7 +11,7 @@ Then the other files are the source code of the project:
 - *QDA.r* contains the analysis for the Quadratic Discriminant Analysis
 - *utility.r* contains some utility custom functions
 
-The report with the description of the work is called Zanotti_Federico_report.pdf and presents this structure:
+The report with the description of the work is called *Zanotti_Federico_report.pdf* and presents this structure:
 1. Introduction to the problem
 2. Cleaning and Filtering data
 3. Statisical analysis of the dataset
